@@ -1,5 +1,5 @@
 # Life Below Water (SDG 14)
-[https://devbyritesh.github.io/life-below-water.io/](https://devbyritesh.github.io/life-below-water.io/) <br/>
+[https://devbyritesh.github.io/life-below-water/](https://devbyritesh.github.io/life-below-water/) <br/>
 This project aims to promote awareness and action towards Sustainable Development Goal 14: Life Below Water. The website provides educational content, interactive features, and engaging visuals to highlight the importance of conserving and sustainably using the oceans, seas, and marine resources.
 
 ## Table of Contents
@@ -34,10 +34,10 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/DevByRitesh/life-below-water.io
+   git clone https://github.com/DevByRitesh/life-below-water.i
 2. Navigate to the project directory:
     ```sh
     cd life-below-water
 ## Usage
 
-Visit - https://devbyritesh.github.io/life-below-water.io/ to see the website.
+Visit - https://devbyritesh.github.io/life-below-water// to see the website.
